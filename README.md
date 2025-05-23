@@ -1,10 +1,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=940&lines=I+am+Jerrick!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=KingJerrick" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingJerrick&layout=compact&langs_count=8&card_width=100" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=KingJerrick" />
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingJerrick&layout=compact&langs_count=8&card_width=200" />
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
