@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=KingJerrick&count_private=true" />
+      <img height="200" src="github-readme-stats-fw5uaqnmo-jerricks-projects-3dda0607.vercel.app/api?username=KingJerrick&count_private=true" />
     </td>
     <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingJerrick&layout=compact&langs_count=8&card_width=200&count_private=true" />
+      <img height="200" src="github-readme-stats-fw5uaqnmo-jerricks-projects-3dda0607.vercel.app/api/top-langs?username=KingJerrick&layout=compact&langs_count=8&card_width=200&count_private=true" />
     </td>
   </tr>
 </table>
