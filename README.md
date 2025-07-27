@@ -3,6 +3,8 @@
 
 [<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="100"/>](https://www.njust.edu.cn/)[<img src="https://github.com/KingJerrick/icon/blob/main/physic.webp" height="100"/>](https://physics.njust.edu.cn/main.htm)
 
+<div align="center">
+
 <table>
   <tr>
     <td>
