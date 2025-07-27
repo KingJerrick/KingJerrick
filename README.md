@@ -1,7 +1,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=940&lines=I+am+Jerrick!)](https://git.io/typing-svg)
 
-[<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="100"/>](https://www.njust.edu.cn/)[<img src="https://github.com/KingJerrick/icon/blob/main/physic.webp" height="100"/>](https://physics.njust.edu.cn/main.htm)
+<div align="center">
+
+[<img src="https://github.com/KingJerrick/icon/blob/main/njust.png" height="100"/>](https://www.njust.edu.cn/)
+[<img src="https://github.com/KingJerrick/icon/blob/main/physic.webp" height="100"/>](https://physics.njust.edu.cn/main.htm)
+
+</div>
 
 <div align="center">
 
